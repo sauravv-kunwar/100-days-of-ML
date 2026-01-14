@@ -1,39 +1,39 @@
-100-Days-of-ML
+# 100-Days-of-ML
 
-A personal journey into Machine Learning! This repository documents my 100-day challenge of learning and practicing machine learning concepts, algorithms, and projects using Python.
+- A personal journey into Machine Learning! This repository documents my 100-day challenge of learning and practicing machine learning concepts, algorithms, and projects using Python.
 
-📚 What’s Inside
+# 📚 What’s Inside
 
-Daily exercises and practice notebooks
+- Daily exercises and practice notebooks
 
-Implementation of supervised and unsupervised learning algorithms
+- Implementation of supervised and unsupervised learning algorithms
 
-Data preprocessing, visualization, and analysis
+- Data preprocessing, visualization, and analysis
 
-Mini ML projects and experiments
+- Mini ML projects and experiments
 
-Notes and summaries of key ML concepts
+- Notes and summaries of key ML concepts
 
-🛠 Tools & Libraries
+# 🛠 Tools & Libraries
 
-Python
+- Python
 
-NumPy, Pandas
+- NumPy, Pandas
 
-Matplotlib, Seaborn
+- Matplotlib, Seaborn
 
-Scikit-learn
+- Scikit-learn
 
-Jupyter Notebook
+- Jupyter Notebook
 
-🎯 Goals
+# 🎯 Goals
 
-Strengthen understanding of core ML concepts
+- Strengthen understanding of core ML concepts
 
-Gain hands-on experience by implementing algorithms from scratch
+- Gain hands-on experience by implementing algorithms from scratch
 
-Build small projects to apply ML in real-world scenarios
+- Build small projects to apply ML in real-world scenarios
 
-Track progress and improvement over 100 days
+- Track progress and improvement over 100 days
 
 
